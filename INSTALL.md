@@ -10,10 +10,10 @@ Example:
 
 ```json
 "schemes": [
-    {
-        "name" : "Snazzy",
-        ...
-    }
+	{
+		"name": "Snazzy",
+		...
+	}
 ]
 ```
 
@@ -26,11 +26,11 @@ Example:
 ```json
 "profiles": [
 	{
-        "guid": "{c5e01457-d08a-47fd-aa60-b128820d7352}",
-        "name": "cmd",
-        "commandline": "cmd.exe",
+		"guid": "{c5e01457-d08a-47fd-aa60-b128820d7352}",
+		"name": "cmd",
+		"commandline": "cmd.exe",
 		"hidden": false,
-		"colorScheme" : "Snazzy"
-    }
+		"colorScheme": "Snazzy"
+	}
 ]
 ```
